@@ -1,0 +1,19 @@
+Daniel Saltz
+OUTPUT
+9/23/15
+
+DIRECTIONS: To run this code just compile and execute it.
+
+There are 64 ways to paint the houses
+
+There are 853054792520188672 different possible passwords
+
+There are 362880 different possible lineups
+
+There are 1552438800 ways for them to be selected
+
+For m = 3, there are 15600 possible sequences
+
+For m = 5, there are 7893600 possible sequences
+
+There are 2598960 possible hands in a poker deck

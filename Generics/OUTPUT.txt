@@ -1,0 +1,72 @@
+Daniel Saltz
+Output of Code
+Generics
+
+
+This is the output of my code. I commented and uncommented several parts since they can’t all run at once.
+
+// part 2
+Beginning Tests
+
+1
+2
+3
+4
+5
+1.1
+2.2
+3.3
+4.4
+H
+E
+L
+L
+O
+once
+upon
+a
+time
+
+
+// part 3
+Beginning Tests
+
+1
+2
+3
+4
+5
+1.1
+2.2
+3.3
+4.4
+H
+E
+L
+L
+O
+once
+upon
+a
+time
+
+//part 4
+Beginning Tests
+
+max Integer is: 5
+max Double is: 4.4
+max Character is: O
+max String is: upon
+
+// part 5
+Beginning Tests
+
+max Integer is: 5
+max Double is: 4.4
+max Character is: O
+max String is: upon
+
+// part 6
+Beginning Tests
+
+W

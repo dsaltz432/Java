@@ -1,0 +1,21 @@
+Daniel Saltz
+OUTPUT
+9/23/15
+
+DIRECTIONS: To run this code just compile and execute it.
+
+There are 20 anagrams in "error"
+
+There are 180 anagrams in "street"
+
+There are 60 anagrams in "allele"
+
+There are 34650 anagrams in "mississippi"
+
+There are 84 ways to distribute the apples among 4 children
+
+There are 126 ways to distribute the apples among 6 children
+
+There are 245 ways to distribute the fruit
+
+There are 55 ways to distribute the fruit

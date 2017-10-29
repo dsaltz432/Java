@@ -1,0 +1,50 @@
+Daniel Saltz
+OUTPUT
+
+Starting tests
+
+Inserting integers into the tree
+
+Printing pre order
+12
+5
+3
+2
+7
+20
+14
+
+Printing in order
+5
+3
+2
+7
+12
+20
+14
+
+Printing post order
+5
+3
+2
+7
+20
+14
+12
+
+Testing insert()
+Is 5 in the tree? true
+Is 4 in the tree? false
+Is 33 in the tree? false
+
+Deleting 3 and 20
+
+New Tree: 
+5
+2
+7
+12
+14
+
+Ending tests
+
